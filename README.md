@@ -4,6 +4,10 @@
 ###
 
 <h2 align="left">Hi 👋! My name is  Tushar and I'm a C.S.E student 🧑🏻‍🎓 , from Government Degree college Dharamshala 🏫.</h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Batman gif" />
+</p>
+
 
 ###
 
