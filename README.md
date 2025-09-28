@@ -5,7 +5,7 @@
 
 ###
 
-<p style="font-size: 18px;font-weight: bold" align="center" >Hi 👋! My name is  Tushar and I'm a C.S.E student 🧑🏻‍🎓 , from Government Degree college Dharamshala 🏫.</p>
+<p style="font-size: 18px;font-weight: 10px" align="center" >Hi 👋! My name is  Tushar and I'm a C.S.E student 🧑🏻‍🎓 , from Government Degree college Dharamshala 🏫.</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Batman gif" />
