@@ -1,3 +1,9 @@
+<style>
+  #info{
+  font-size=18px;
+  font-weight=bold;
+  }
+</style>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="Cool GIF" />
 </p>
@@ -5,7 +11,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is  Tushar and I'm a C.S.E student 🧑🏻‍🎓 , from Government Degree college Dharamshala 🏫.</h2>
+<p id="info">Hi 👋! My name is  Tushar and I'm a C.S.E student 🧑🏻‍🎓 , from Government Degree college Dharamshala 🏫.</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Batman gif" />
